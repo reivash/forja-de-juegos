@@ -7,5 +7,5 @@ Dentro de las carpetas verás dos códigos:
 - Un código <b>Base</b> (del que se parte al comienzo del vídeo)
 - Un código <b>Final</b> (resultado al terminar el vídeo). 
 
-Aunque estos archivos tienen extensión .java no coinciden en nombre de fichero y clase Java. Por ello, debes abrirlos con Sublime Text, Wordpad o cualquier editor de texto y hacer copy-paste en su correspondiente clase dentro de Eclipse (o el IDE que estés usando).
+Para usarlos, puedes abrirlos con Sublime Text, Wordpad o cualquier editor de texto y hacer copy-paste en su correspondiente clase dentro de Eclipse (o el IDE que estés usando).
 
