@@ -50,9 +50,8 @@ public class Main {
 	}
 
 	private static void createOpenGLCtx() {
-		GL11.glMatrixMode(GL11.GL_MODELVIEW);
-		GL11.glOrtho(0, SCREEN_WIDTH, SCREEN_HEIGHT, 0, 1, -1);
 		GL11.glMatrixMode(GL11.GL_PROJECTION);
+		GL11.glOrtho(0, SCREEN_WIDTH, SCREEN_HEIGHT, 0, 1, -1);
 	}
 
 	private static void createDisplay() {
